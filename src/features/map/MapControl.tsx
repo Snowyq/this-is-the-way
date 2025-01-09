@@ -1,5 +1,4 @@
-import { useMap, useMapEvents } from 'react-leaflet';
-import useUserLocalization from './useUserLocalization';
+import { useMap } from 'react-leaflet';
 import { useEffect } from 'react';
 
 interface MapControlProps {
@@ -7,7 +6,6 @@ interface MapControlProps {
 }
 
 const MapControl = (props: MapControlProps) => {
-	const { userPosition, isUserPosition } = useUserLocalization();
 	const map = useMap();
 
 	useEffect(() => {

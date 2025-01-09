@@ -1,16 +1,19 @@
+import 'leaflet/dist/leaflet.css';
 import {
 	MapContainer,
 	TileLayer,
 	Marker,
 	Popup,
 	useMapEvents,
+	Polyline,
 	useMap,
 } from 'react-leaflet';
-import 'leaflet/dist/leaflet.css';
-import { useEffect, useRef, useState } from 'react';
+
+import { useEffect, useState } from 'react';
+
 import useUserLocalization from './useUserLocalization';
-import { map } from 'leaflet';
 import MapControl from './MapControl';
+import data from './data';
 
 interface MapViewProps {}
 
@@ -19,9 +22,11 @@ const MapView = (props: MapViewProps) => {
 	const { userPosition, isUserPosition } = useUserLocalization();
 
 	useEffect(() => {
-		if (isUserPosition && map) {
-			map.setView(userPosition, 15);
-		}
+		// if (isUserPosition && map) {
+		console.log(data.coordinates[0]);
+
+		map?.setView(data.coordinates[0], 15);
+		// }
 	}, [isUserPosition, map]);
 
 	return (
@@ -35,6 +40,11 @@ const MapView = (props: MapViewProps) => {
 			<TileLayer
 				attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 				url='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
+			/>
+			<Polyline
+				positions={data.coordinates}
+				color='blue' // Kolor linii
+				weight={3} // Grubość linii
 			/>
 		</MapContainer>
 	);
