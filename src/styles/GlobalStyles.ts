@@ -51,6 +51,11 @@ const GlobalStyles = createGlobalStyle`
       --color-neutral-900: #171717;
       --color-neutral-950: #0a0a0a;
 
+      --color-neutral-700-70: #40404070;
+      --color-neutral-700-80: #40404080;
+      --color-neutral-800-70: #26262670;
+      --color-neutral-800-80: #26262680;
+
       --color-stone-50: #fafaf9;
       --color-stone-100: #f5f5f4;
       --color-stone-200: #e7e5e4;
@@ -278,6 +283,52 @@ const GlobalStyles = createGlobalStyle`
       --color-rose-800: #9f1239;
       --color-rose-900: #881337;
       --color-rose-950: #4c0519;
+
+
+
+      /* WITH OPACITY */
+      --color-sky-700-80: #0369a180;
+      --color-sky-700-70: #0369a170;
+      --color-sky-800-80: #07598580;
+      --color-sky-800-70: #07598570;
+
+ 
+
+
+
+      /* BRAND */
+
+      --color-brand-50: var(--color-neutral-50);
+      --color-brand-100: var(--color-neutral-100);
+      --color-brand-200: var(--color-neutral-200);
+      --color-brand-300: var(--color-neutral-300);
+      --color-brand-400: var(--color-neutral-400);
+      --color-brand-500: var(--color-neutral-500);
+      --color-brand-600: var(--color-neutral-600);
+      --color-brand-700: var(--color-neutral-700);
+      --color-brand-800: var(--color-neutral-800);
+      --color-brand-900: var(--color-neutral-900);
+      --color-brand-950: var(--color-neutral-950);
+
+      --color-brand-700-70: var(--color-neutral-700-70);
+      --color-brand-700-80: var(--color-neutral-700-80);
+
+      --color-brand-800-70: var(--color-neutral-800-70);
+      --color-brand-800-80: var(--color-neutral-800-80);
+
+
+      /* SIZES */
+      --spacing-1: 0.25rem; /* Extra small */
+      --spacing-2: 0.5rem;  /* Small */
+      --spacing-3: 0.75rem; /* Small-medium */
+      --spacing-4: 1rem;    /* Medium */
+      --spacing-5: 1.5rem;  /* Medium-large */
+      --spacing-6: 2rem;    /* Large */
+      --spacing-7: 3rem;    /* Extra large */
+      --spacing-8: 4rem;    /* Double extra large */
+      --spacing-9: 6rem;    /* Triple extra large */
+      --spacing-10: 8rem;   /* Quadruple extra large */
+
     }
 
     *,
@@ -297,7 +348,7 @@ html {
 
 body {
   font-family: "Poppins", sans-serif;
-  color: var(--color-grey-700);
+  color: var(--color-gray-700);
 
   transition: color 0.3s, background-color 0.3s;
   min-height: 100vh;
@@ -323,8 +374,8 @@ button {
 
 select:disabled,
 input:disabled {
-  background-color: var(--color-grey-200);
-  color: var(--color-grey-500);
+  background-color: var(--color-gray-200);
+  color: var(--color-gray-500);
 }
 
 input:focus,

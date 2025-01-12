@@ -1,16 +1,26 @@
 import styled from 'styled-components';
+import TopBar from './TopBar';
+import useSidebar from '../hooks/useSidebar';
+import Sidebar from './Sidebar';
+import { useClickOutside } from '../hooks/useClickOutside';
 
-const StyledHeader = styled.div`
-	background-color: var(--color-gray-100);
-	/* grid-column: 1 / -1; */
-	/* border-bottom: 2px solid inset var(--color-gray-200); */
-	box-shadow: inset 0px -4px 5px -2px var(--color-gray-200);
+const StyledHeader = styled.header`
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-color: transparent;
 `;
 
-interface HeaderProps {}
+const Header = () => {
+	const sidebarControls = useSidebar();
+	const { ref, exceptRef } = useClickOutside(sidebarControls.close);
 
-const Header = (props: HeaderProps) => {
-	return <StyledHeader></StyledHeader>;
+	return (
+		<StyledHeader>
+			<Sidebar innerRef={ref} sidebarControls={sidebarControls} />
+			<TopBar sidebarExcept={exceptRef} sidebarControls={sidebarControls} />
+		</StyledHeader>
+	);
 };
 
 export default Header;

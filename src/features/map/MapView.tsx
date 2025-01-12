@@ -22,11 +22,7 @@ const MapView = (props: MapViewProps) => {
 	const { userPosition, isUserPosition } = useUserLocalization();
 
 	useEffect(() => {
-		// if (isUserPosition && map) {
-		console.log(data.coordinates[0]);
-
 		map?.setView(data.coordinates[0], 15);
-		// }
 	}, [isUserPosition, map]);
 
 	return (
@@ -34,18 +30,15 @@ const MapView = (props: MapViewProps) => {
 			center={[0, 0]}
 			zoom={16}
 			scrollWheelZoom={true}
-			style={{ height: 'calc(100svh - 3.2rem)', width: '100%' }}
+			zoomControl={false}
+			style={{ height: '100svh', width: '100%', zIndex: 0 }}
 		>
 			<MapControl setMap={setMap} />
 			<TileLayer
 				attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 				url='https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
 			/>
-			<Polyline
-				positions={data.coordinates}
-				color='blue' // Kolor linii
-				weight={3} // Grubość linii
-			/>
+			<Polyline positions={data.coordinates} color='blue' weight={3} />
 		</MapContainer>
 	);
 };

@@ -1,0 +1,2785 @@
+{
+  "lastUpdate": "2025-01-10 20:21:25",
+  "displaysMsg": [
+    {
+      "displayCode": 19,
+      "displayName": "Sobieszewo A>",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:31",
+      "msgType": 1
+    },
+    {
+      "displayCode": 40,
+      "displayName": "Brzeźno Dom Zdrojowy  A/T>",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:17:00",
+      "msgType": 1
+    },
+    {
+      "displayCode": 52,
+      "displayName": "Łostowice Świętokrzyska  A>Jasień",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:31",
+      "msgType": 1
+    },
+    {
+      "displayCode": 53,
+      "displayName": "Łostowice Świętokrzyska  A>Jasień",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:31",
+      "msgType": 1
+    },
+    {
+      "displayCode": 54,
+      "displayName": "Łostowice Świętokrzyska  A>Jasień",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:31",
+      "msgType": 1
+    },
+    {
+      "displayCode": 55,
+      "displayName": "Łostowice Świętokrzyska  A>Jasień",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:31",
+      "msgType": 1
+    },
+    {
+      "displayCode": 57,
+      "displayName": "Łostowice Świętokrzyska  A/T>Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:17:00",
+      "msgType": 1
+    },
+    {
+      "displayCode": 58,
+      "displayName": "Łostowice Świętokrzyska  A/T>Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:17:00",
+      "msgType": 1
+    },
+    {
+      "displayCode": 59,
+      "displayName": "Łostowice Świętokrzyska  A/T>Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:17:00",
+      "msgType": 1
+    },
+    {
+      "displayCode": 60,
+      "displayName": "Łostowice Świętokrzyska  A/T>Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:17:01",
+      "msgType": 1
+    },
+    {
+      "displayCode": 69,
+      "displayName": "Stogi Plaża T8",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:17:01",
+      "msgType": 1
+    },
+    {
+      "displayCode": 70,
+      "displayName": "Brama Żuławska  A>Sobieszewo",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:32",
+      "msgType": 1
+    },
+    {
+      "displayCode": 81,
+      "displayName": "Jaśkowa Dolina   A>Orunia Górna",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:32",
+      "msgType": 1
+    },
+    {
+      "displayCode": 82,
+      "displayName": "Jaśkowa Dolina  A>Suchanino",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:33",
+      "msgType": 1
+    },
+    {
+      "displayCode": 83,
+      "displayName": "Galeria Bałtycka   A>Oliwa",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:33",
+      "msgType": 1
+    },
+    {
+      "displayCode": 86,
+      "displayName": "Oliwa  A>Osowa",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:33",
+      "msgType": 1
+    },
+    {
+      "displayCode": 87,
+      "displayName": "Kościuszki  A/T>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:17:02",
+      "msgType": 1
+    },
+    {
+      "displayCode": 90,
+      "displayName": "Mickiewicza  A/T>Oliwa",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:17:03",
+      "msgType": 1
+    },
+    {
+      "displayCode": 94,
+      "displayName": "Galeria Bałtycka   A>Port Lotniczy",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:33",
+      "msgType": 1
+    },
+    {
+      "displayCode": 95,
+      "displayName": "Zabytkowa   A>Port Lotniczy",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:33",
+      "msgType": 1
+    },
+    {
+      "displayCode": 96,
+      "displayName": "Cmentarz Srebrzysko  A>Port Lotniczy",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 97,
+      "displayName": "Cmentarz Srebrzysko  A>Wrzeszcz PKP",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 98,
+      "displayName": "Potokowa   A>Migowo",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 99,
+      "displayName": "Potokowa   A>Port Lotniczy",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 100,
+      "displayName": "Szczęśliwa   A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 101,
+      "displayName": "Dworzec Główny   A>KFC",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 102,
+      "displayName": "Hucisko  A>Siedlce",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258.",
+      "messagePart2": " Szczegóły na stronie: www.ztm.gda.pl",
+      "startDate": "2025-01-10 19:16:22",
+      "endDate": "2025-01-10 23:59:22",
+      "configurationDate": "2025-01-10 19:16:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 701,
+      "displayName": "Brama Wyżynna A>Pruszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 713,
+      "displayName": "Zakopiańska A/T>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 714,
+      "displayName": "Emaus A>Chełm",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 715,
+      "displayName": "Piekarnicza A>Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 716,
+      "displayName": "Piekarnicza A>Chełm",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 717,
+      "displayName": "Damroki A>Bysewo",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 718,
+      "displayName": "Damroki A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 719,
+      "displayName": "Piecewska A>Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 720,
+      "displayName": "Dobrowolskiego A>Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 721,
+      "displayName": "Wagnera A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 722,
+      "displayName": "Wyczółkowskiego A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 723,
+      "displayName": "Cmentarz Łostowicki A>Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 724,
+      "displayName": "Cmentarz Łostowicki A>Chełm",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 731,
+      "displayName": "Wilanowska A> Łostowice",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 732,
+      "displayName": "Wilanowska A/T> Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 733,
+      "displayName": "Przemyska A> Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 736,
+      "displayName": "Płocka A> Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 737,
+      "displayName": "Platynowa A> centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 738,
+      "displayName": "Platynowa A> Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 739,
+      "displayName": "Gościnna A> centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 740,
+      "displayName": "Sandomierska A> centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 741,
+      "displayName": "Rębowo A> Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 742,
+      "displayName": "Czermińskiego A> Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 749,
+      "displayName": "Galeria Bałtycka A> Zaspa",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 765,
+      "displayName": "Krynicka A> Oliwa",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 766,
+      "displayName": "Krynicka A> centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 767,
+      "displayName": "Przymorze Wielkie A> Nowy Port",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 768,
+      "displayName": "Przymorze Wielkie A> Oliwa",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 780,
+      "displayName": "Zaspa Szpital A> Stogi",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 781,
+      "displayName": "Zaspa Szpital A> Jasień",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 782,
+      "displayName": "Sopocka A> Oliwa",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 783,
+      "displayName": "Nowa A> Oliwa",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 784,
+      "displayName": "Harfowa A> Wrzeszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 786,
+      "displayName": "Jasień PKM A> centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 787,
+      "displayName": "Jasieńska A> Kartuska",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 788,
+      "displayName": "Brama Wyżynna A> Dworzec",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 789,
+      "displayName": "Wrzeszcz PKP A> Oliwa",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 790,
+      "displayName": "Wrzeszcz PKP A> Port Lotniczy",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 791,
+      "displayName": "Wrzeszcz PKP A> Łostowice",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 792,
+      "displayName": "Toruńska  A>Pruszcz",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 793,
+      "displayName": "Zaroślak A>Chełm",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 794,
+      "displayName": "Zaroślak A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 795,
+      "displayName": "Urząd Wojewódzki / Marszałkowski A>Olszynka",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 796,
+      "displayName": "Urząd Wojewódzki / Marszałkowski  A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 797,
+      "displayName": "Niedźwiednik  A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 801,
+      "displayName": "Stogi  A>Głęboka",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 802,
+      "displayName": "Zimna  A>Głęboka",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 803,
+      "displayName": "Sucharskiego A",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 804,
+      "displayName": "Sucharskiego (nieczynny)",
+      "messagePart1": "PRZYSTANEK NIEOBSŁUGIWANY",
+      "messagePart2": "",
+      "startDate": "2025-01-10 22:00:00",
+      "endDate": "2025-04-30 23:58:00",
+      "configurationDate": "2025-01-10 09:42:22",
+      "msgType": 1
+    },
+    {
+      "displayCode": 805,
+      "displayName": "Sucharskiego (nieczynny)",
+      "messagePart1": "PRZYSTANEK NIEOBSŁUGIWANY",
+      "messagePart2": "",
+      "startDate": "2025-01-10 22:00:00",
+      "endDate": "2025-04-30 23:58:00",
+      "configurationDate": "2025-01-10 09:42:22",
+      "msgType": 1
+    },
+    {
+      "displayCode": 806,
+      "displayName": "Lenartowicza   A",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 807,
+      "displayName": "Lenartowicza   A",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 808,
+      "displayName": "Przeróbka  A",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 809,
+      "displayName": "Przeróbka  A",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 810,
+      "displayName": "Głęboka (nieczynny)",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 810,
+      "displayName": "Głęboka (nieczynny)",
+      "messagePart1": "PRZYSTANEK NIEOBSŁUGIWANY",
+      "messagePart2": "",
+      "startDate": "2025-01-10 22:00:00",
+      "endDate": "2025-04-30 23:58:00",
+      "configurationDate": "2025-01-10 09:42:22",
+      "msgType": 1
+    },
+    {
+      "displayCode": 811,
+      "displayName": "Głęboka (nieczynny)",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 811,
+      "displayName": "Głęboka (nieczynny)",
+      "messagePart1": "PRZYSTANEK NIEOBSŁUGIWANY",
+      "messagePart2": "",
+      "startDate": "2025-01-10 22:00:00",
+      "endDate": "2025-04-30 23:58:00",
+      "configurationDate": "2025-01-10 09:42:22",
+      "msgType": 1
+    },
+    {
+      "displayCode": 814,
+      "displayName": "Kokoszki  A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 815,
+      "displayName": "Kokoszki  A>Bysewo",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 816,
+      "displayName": "Inżynierska  A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 817,
+      "displayName": "Inżynierska  A>Bysewo",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 818,
+      "displayName": "Fabryczna  A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 819,
+      "displayName": "Fabryczna  A>Bysewo",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 820,
+      "displayName": "Osowa PKP  A>Oliwa",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 821,
+      "displayName": "Siedlce  A/T>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 822,
+      "displayName": "Siedlce  A/T>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 823,
+      "displayName": "Siedlce  A/T>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 824,
+      "displayName": "Siedlce  A/T>Brętowo",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 825,
+      "displayName": "Siedlce  A/T>Brętowo",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 830,
+      "displayName": "Warneńska  A/T>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 831,
+      "displayName": "Warneńska  A/T>Brętowo",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 834,
+      "displayName": "Kolumba   A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 835,
+      "displayName": "Kolumba   A>Niedźwiednik",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 837,
+      "displayName": "Brętowo PKM   A>Niedźwiednik",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 840,
+      "displayName": "Budapesztańska   A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 841,
+      "displayName": "Budapesztańska   A>Jasień",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 844,
+      "displayName": "Migowo   A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 845,
+      "displayName": "Migowo   A>Jasień",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 846,
+      "displayName": "Zacna  A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 847,
+      "displayName": "Jasieńska  A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 851,
+      "displayName": "Łabędzia A/T>Ujeścisko",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 855,
+      "displayName": "Zabornia A/T>Ujeścisko",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 856,
+      "displayName": "Zabornia  A>centrum",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 857,
+      "displayName": "Zabornia A>Bysewo",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 859,
+      "displayName": "Ujeścisko  A/T>  Jasień",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 860,
+      "displayName": "Ujeścisko  A>Siedlce",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 861,
+      "displayName": "Lawendowe Wzgórze  A>SP nr 6",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 871,
+      "displayName": "Pruszcz Gd. Chopina A>Gdańsk",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 894,
+      "displayName": "Dworzec Główny  A>Plac Solidarności",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 895,
+      "displayName": "Dworzec Główny  A>Orunia",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 896,
+      "displayName": "Dworzec Główny  A>Bysewo",
+      "messagePart1": "Awaryjna zmiana trasy autobusów linii 106, 158 i 258. Szczegóły na stronie: www.ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-10 19:15:00",
+      "endDate": "2025-01-10 23:59:00",
+      "configurationDate": "2025-01-10 19:13:34",
+      "msgType": 1
+    },
+    {
+      "displayCode": 19,
+      "displayName": "Sobieszewo A>",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:22",
+      "msgType": 0
+    },
+    {
+      "displayCode": 20,
+      "displayName": "Oliwa  T>Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:22",
+      "msgType": 0
+    },
+    {
+      "displayCode": 21,
+      "displayName": "Oliwa  T>Jelitkowo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:23",
+      "msgType": 0
+    },
+    {
+      "displayCode": 40,
+      "displayName": "Brzeźno Dom Zdrojowy  A/T>",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:23",
+      "msgType": 0
+    },
+    {
+      "displayCode": 52,
+      "displayName": "Łostowice Świętokrzyska  A>Jasień",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:24",
+      "msgType": 0
+    },
+    {
+      "displayCode": 53,
+      "displayName": "Łostowice Świętokrzyska  A>Jasień",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:24",
+      "msgType": 0
+    },
+    {
+      "displayCode": 54,
+      "displayName": "Łostowice Świętokrzyska  A>Jasień",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:25",
+      "msgType": 0
+    },
+    {
+      "displayCode": 55,
+      "displayName": "Łostowice Świętokrzyska  A>Jasień",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:26",
+      "msgType": 0
+    },
+    {
+      "displayCode": 57,
+      "displayName": "Łostowice Świętokrzyska  A/T>Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:26",
+      "msgType": 0
+    },
+    {
+      "displayCode": 58,
+      "displayName": "Łostowice Świętokrzyska  A/T>Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:27",
+      "msgType": 0
+    },
+    {
+      "displayCode": 59,
+      "displayName": "Łostowice Świętokrzyska  A/T>Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:28",
+      "msgType": 0
+    },
+    {
+      "displayCode": 60,
+      "displayName": "Łostowice Świętokrzyska  A/T>Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:29",
+      "msgType": 0
+    },
+    {
+      "displayCode": 69,
+      "displayName": "Stogi Plaża T8",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:30",
+      "msgType": 0
+    },
+    {
+      "displayCode": 70,
+      "displayName": "Brama Żuławska  A>Sobieszewo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:31",
+      "msgType": 0
+    },
+    {
+      "displayCode": 71,
+      "displayName": "Akademia Muzyczna   T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:31",
+      "msgType": 0
+    },
+    {
+      "displayCode": 72,
+      "displayName": "Akademia Muzyczna  T>Głęboka",
+      "messagePart1": "Możliwość przesiadki na autobusy linii 106, 111 i 138",
+      "messagePart2": " w kierunku Przeróbka, Stogi, z przystanku autobusowego po drugiej stronie ulicy -->",
+      "startDate": "2025-01-11 04:00:42",
+      "endDate": "2025-01-31 23:59:42",
+      "configurationDate": "2025-01-10 11:19:30",
+      "msgType": 0
+    },
+    {
+      "displayCode": 72,
+      "displayName": "Akademia Muzyczna  T>Głęboka",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-10 11:19:04",
+      "endDate": "2025-01-17 23:19:04",
+      "configurationDate": "2025-01-10 11:19:30",
+      "msgType": 0
+    },
+    {
+      "displayCode": 73,
+      "displayName": "Uniwersytet Medyczny  T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:31",
+      "msgType": 0
+    },
+    {
+      "displayCode": 74,
+      "displayName": "Uniwersytet Medyczny  T>Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:31",
+      "msgType": 0
+    },
+    {
+      "displayCode": 75,
+      "displayName": "Traugutta   T>Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:32",
+      "msgType": 0
+    },
+    {
+      "displayCode": 76,
+      "displayName": "Traugutta   T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:32",
+      "msgType": 0
+    },
+    {
+      "displayCode": 77,
+      "displayName": "Politechnika   T>Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:32",
+      "msgType": 0
+    },
+    {
+      "displayCode": 78,
+      "displayName": "Politechnika   T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:32",
+      "msgType": 0
+    },
+    {
+      "displayCode": 79,
+      "displayName": "Jaśkowa Dolina   T>Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:32",
+      "msgType": 0
+    },
+    {
+      "displayCode": 80,
+      "displayName": "Jaśkowa Dolina   T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:33",
+      "msgType": 0
+    },
+    {
+      "displayCode": 81,
+      "displayName": "Jaśkowa Dolina   A>Orunia Górna",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:34",
+      "msgType": 0
+    },
+    {
+      "displayCode": 82,
+      "displayName": "Jaśkowa Dolina  A>Suchanino",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:34",
+      "msgType": 0
+    },
+    {
+      "displayCode": 83,
+      "displayName": "Galeria Bałtycka   A>Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:34",
+      "msgType": 0
+    },
+    {
+      "displayCode": 84,
+      "displayName": "Wojska Polskiego   T>Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:35",
+      "msgType": 0
+    },
+    {
+      "displayCode": 85,
+      "displayName": "Wojska Polskiego   T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:35",
+      "msgType": 0
+    },
+    {
+      "displayCode": 86,
+      "displayName": "Oliwa  A>Osowa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:37",
+      "msgType": 0
+    },
+    {
+      "displayCode": 87,
+      "displayName": "Kościuszki  A/T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:37",
+      "msgType": 0
+    },
+    {
+      "displayCode": 88,
+      "displayName": "Kościuszki   T>Brzeźno",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:37",
+      "msgType": 0
+    },
+    {
+      "displayCode": 89,
+      "displayName": "Mickiewicza   T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:38",
+      "msgType": 0
+    },
+    {
+      "displayCode": 90,
+      "displayName": "Mickiewicza  A/T>Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:38",
+      "msgType": 0
+    },
+    {
+      "displayCode": 91,
+      "displayName": "Mickiewicza   T>Brzeźno",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:38",
+      "msgType": 0
+    },
+    {
+      "displayCode": 92,
+      "displayName": "Klonowa  T>Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:39",
+      "msgType": 0
+    },
+    {
+      "displayCode": 93,
+      "displayName": "Klonowa   T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:39",
+      "msgType": 0
+    },
+    {
+      "displayCode": 94,
+      "displayName": "Galeria Bałtycka   A>Port Lotniczy",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:39",
+      "msgType": 0
+    },
+    {
+      "displayCode": 95,
+      "displayName": "Zabytkowa   A>Port Lotniczy",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:40",
+      "msgType": 0
+    },
+    {
+      "displayCode": 96,
+      "displayName": "Cmentarz Srebrzysko  A>Port Lotniczy",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:40",
+      "msgType": 0
+    },
+    {
+      "displayCode": 97,
+      "displayName": "Cmentarz Srebrzysko  A>Wrzeszcz PKP",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:41",
+      "msgType": 0
+    },
+    {
+      "displayCode": 98,
+      "displayName": "Potokowa   A>Migowo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:41",
+      "msgType": 0
+    },
+    {
+      "displayCode": 99,
+      "displayName": "Potokowa   A>Port Lotniczy",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:42",
+      "msgType": 0
+    },
+    {
+      "displayCode": 100,
+      "displayName": "Szczęśliwa   A>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:42",
+      "msgType": 0
+    },
+    {
+      "displayCode": 101,
+      "displayName": "Dworzec Główny   A>KFC",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:43",
+      "msgType": 0
+    },
+    {
+      "displayCode": 102,
+      "displayName": "Hucisko  A>Siedlce",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:43",
+      "msgType": 0
+    },
+    {
+      "displayCode": 103,
+      "displayName": "Polsat Plus Arena Gdańsk T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:43",
+      "msgType": 0
+    },
+    {
+      "displayCode": 104,
+      "displayName": "Polsat Plus Arena Gdańsk T>Nowy Port",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tram",
+      "messagePart2": "wajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii T8. Więcej na: ztm.gda.pl",
+      "startDate": "2025-01-08 13:45:53",
+      "endDate": "2025-01-14 18:00:53",
+      "configurationDate": "2025-01-08 13:45:43",
+      "msgType": 0
+    },
+    {
+      "displayCode": 701,
+      "displayName": "Brama Wyżynna A>Pruszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 702,
+      "displayName": "Brama Wyżynna T>Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 703,
+      "displayName": "Brama Wyżynna T>Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 704,
+      "displayName": "Brama Wyżynna T>Łostowice",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 705,
+      "displayName": "Brama Wyżynna T>Łostowice",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 706,
+      "displayName": "Hucisko T>Migowo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 707,
+      "displayName": "Hucisko T>Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 708,
+      "displayName": "Nowe Ogrody T>Chełm",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 709,
+      "displayName": "Plac Solidarności T>Nowy Port",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 710,
+      "displayName": "Plac Solidarności T>Brętowo PKM",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 711,
+      "displayName": "Ciasna T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 712,
+      "displayName": "Skrajna T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 713,
+      "displayName": "Zakopiańska A/T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 714,
+      "displayName": "Emaus A>Chełm",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 715,
+      "displayName": "Piekarnicza A>Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 716,
+      "displayName": "Piekarnicza A>Chełm",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 717,
+      "displayName": "Damroki A>Bysewo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 718,
+      "displayName": "Damroki A>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 719,
+      "displayName": "Piecewska A>Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 720,
+      "displayName": "Dobrowolskiego A>Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 721,
+      "displayName": "Wagnera A>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 722,
+      "displayName": "Wyczółkowskiego A>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 723,
+      "displayName": "Cmentarz Łostowicki A>Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 724,
+      "displayName": "Cmentarz Łostowicki A>Chełm",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 725,
+      "displayName": "Chałubińskiego T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 726,
+      "displayName": "Sikorskiego T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 727,
+      "displayName": "Sikorskiego T> Łostowice",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 728,
+      "displayName": "Cieszyńskiego T> Łostowice",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 729,
+      "displayName": "Cieszyńskiego T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 730,
+      "displayName": "Wilanowska T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 731,
+      "displayName": "Wilanowska A> Łostowice",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 732,
+      "displayName": "Wilanowska A/T> Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 733,
+      "displayName": "Przemyska A> Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 734,
+      "displayName": "Przemyska T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 735,
+      "displayName": "Płocka T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 736,
+      "displayName": "Płocka A> Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 737,
+      "displayName": "Platynowa A> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 738,
+      "displayName": "Platynowa A> Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 739,
+      "displayName": "Gościnna A> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 740,
+      "displayName": "Sandomierska A> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 741,
+      "displayName": "Rębowo A> Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 742,
+      "displayName": "Czermińskiego A> Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 743,
+      "displayName": "Opera Bałtycka T> Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 744,
+      "displayName": "Opera Bałtycka T> Brzeźno",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 745,
+      "displayName": "Miszewskiego T> Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 746,
+      "displayName": "Miszewskiego T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 747,
+      "displayName": "Galeria Bałtycka T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 748,
+      "displayName": "Galeria Bałtycka T> Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 749,
+      "displayName": "Galeria Bałtycka A> Zaspa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 750,
+      "displayName": "Strzyża PKM T> Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 751,
+      "displayName": "Strzyża PKM T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 752,
+      "displayName": "Bażyńskiego T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 753,
+      "displayName": "Bażyńskiego T> Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 754,
+      "displayName": "Gospody A/T> Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 755,
+      "displayName": "Pomorska T> Zaspa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 756,
+      "displayName": "Osiedle Wejhera T> Zaspa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 757,
+      "displayName": "Jelitkowo T> Zaspa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 758,
+      "displayName": "Piastowska T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 759,
+      "displayName": "Czerwony Dwór T> Jelitkowo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 760,
+      "displayName": "Czerwony Dwór T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 761,
+      "displayName": "Bora - Komorowskiego T> Jelitkowo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 762,
+      "displayName": "Bora - Komorowskiego T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 763,
+      "displayName": "Kołobrzeska T> Jelitkowo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 764,
+      "displayName": "Kołobrzeska T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 765,
+      "displayName": "Krynicka A> Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 766,
+      "displayName": "Krynicka A> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 767,
+      "displayName": "Przymorze Wielkie A> Nowy Port",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 768,
+      "displayName": "Przymorze Wielkie A> Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 769,
+      "displayName": "Startowa T> Jelitkowo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 770,
+      "displayName": "Startowa T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 771,
+      "displayName": "Bajana T> Jelitkowo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 772,
+      "displayName": "Bajana T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 773,
+      "displayName": "Legionów T> Jelitkowo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 774,
+      "displayName": "Legionów T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 775,
+      "displayName": "Plac Komorowskiego T> Jelitkowo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 776,
+      "displayName": "Plac Komorowskiego T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 777,
+      "displayName": "Wyspiańskiego T> Brzeźno",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 778,
+      "displayName": "Wyspiańskiego T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 779,
+      "displayName": "Dworska T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 780,
+      "displayName": "Zaspa Szpital A> Stogi",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 781,
+      "displayName": "Zaspa Szpital A> Jasień",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 782,
+      "displayName": "Sopocka A> Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 783,
+      "displayName": "Nowa A> Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 784,
+      "displayName": "Harfowa A> Wrzeszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 785,
+      "displayName": "Opera Bałtycka T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 788,
+      "displayName": "Brama Wyżynna A> Dworzec",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 789,
+      "displayName": "Wrzeszcz PKP A> Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 790,
+      "displayName": "Wrzeszcz PKP A> Port Lotniczy",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 791,
+      "displayName": "Wrzeszcz PKP A> Łostowice",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 792,
+      "displayName": "Toruńska  A>Pruszcz",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 793,
+      "displayName": "Zaroślak A>Chełm",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 801,
+      "displayName": "Stogi  A>Głęboka",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 802,
+      "displayName": "Zimna  A>Głęboka",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 821,
+      "displayName": "Siedlce  A/T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 822,
+      "displayName": "Siedlce  A/T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 823,
+      "displayName": "Siedlce  A/T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 824,
+      "displayName": "Siedlce  A/T>Brętowo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 825,
+      "displayName": "Siedlce  A/T>Brętowo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 830,
+      "displayName": "Warneńska  A/T>centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 831,
+      "displayName": "Warneńska  A/T>Brętowo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 858,
+      "displayName": "Ujeścisko  T> centrum",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 859,
+      "displayName": "Ujeścisko  A/T>  Jasień",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 871,
+      "displayName": "Pruszcz Gd. Chopina A>Gdańsk",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 894,
+      "displayName": "Dworzec Główny  A>Plac Solidarności",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 895,
+      "displayName": "Dworzec Główny  A>Orunia",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 896,
+      "displayName": "Dworzec Główny  A>Bysewo",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 897,
+      "displayName": "Dworzec Główny  T>Łostowice",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 898,
+      "displayName": "Dworzec Główny  T>Łostowice",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 899,
+      "displayName": "Dworzec Główny  T>Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    },
+    {
+      "displayCode": 900,
+      "displayName": "Dworzec Główny  T>Oliwa",
+      "messagePart1": "Zamknięcie Mostu Siennickiego: zmiany na liniach tramwajowych 8 i 9 oraz autobusowych 106, 111, 138 i N8, uruchomienie linii zastępczej T8. Więcej informacji na: ztm.gda.pl",
+      "messagePart2": "",
+      "startDate": "2025-01-08 13:45:00",
+      "endDate": "2025-01-14 18:00:00",
+      "configurationDate": "2025-01-08 13:42:58",
+      "msgType": 0
+    }
+  ]
+}

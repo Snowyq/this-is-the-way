@@ -4,6 +4,7 @@ const StyledMapBox = styled.div`
 	background-color: yellow;
 	width: 100%;
 	height: 100%;
+	z-index: 0;
 `;
 
 interface MapBoxProps {

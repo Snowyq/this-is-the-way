@@ -1,38 +1,27 @@
-import { Outlet } from 'react-router';
-
 import styled from 'styled-components';
 import Header from './Header';
-import Sidebar from './Sidebar';
+import { Outlet } from 'react-router';
 
 const StyledAppLayout = styled.div`
-	display: grid;
-	grid-template-columns: 3.2rem calc(100svw - 3.2rem);
-	grid-template-rows: 3.2rem calc(100svh - 3.2rem);
-	height: 100svh;
+	/* display: grid;
+	grid-template-rows: 3.2rem calc(100svh - 3.2rem); */
 	width: 100svw;
-	overflow: hidden;
+	height: 100svh;
 `;
-
-const Main = styled.div`
-	background-color: var(--color-gray-50);
+const Container = styled.div``;
+const Main = styled.main`
+	background-color: var(--color-brand-500);
+	width: 100%;
 	height: 100%;
-	/* overflow-y: scroll; */
+	z-index: 0;
 `;
 
-const Container = styled.div`
-	max-width: 120rem;
-	height: 100%;
-	margin: 0 auto;
-	display: flex;
-	flex-direction: column;
-	gap: 3.2rem;
-`;
+// interface AppLayoutProps {}
 
-function AppLayout() {
+const AppLayout = () => {
 	return (
 		<StyledAppLayout>
 			<Header />
-			<Sidebar />
 			<Main>
 				<Container>
 					<Outlet />
@@ -40,6 +29,6 @@ function AppLayout() {
 			</Main>
 		</StyledAppLayout>
 	);
-}
+};
 
 export default AppLayout;

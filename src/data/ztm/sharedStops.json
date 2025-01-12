@@ -1,0 +1,1090 @@
+[
+  {
+    "publicCodeGdansk": 120,
+    "stopIdGdansk": 120,
+    "publicCodeGdynia": 1516,
+    "stopIdGdynia": 31516,
+    "stopName": "Oliwa",
+    "stopCode": "07"
+  },
+  {
+    "publicCodeGdansk": 154,
+    "stopIdGdansk": 154,
+    "publicCodeGdynia": 1512,
+    "stopIdGdynia": 31512,
+    "stopName": "Oliwa ZOO",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 406,
+    "stopIdGdansk": 14470,
+    "publicCodeGdynia": 4240,
+    "stopIdGdynia": 34240,
+    "stopName": "Sopot Przylesie",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4010,
+    "stopIdGdansk": 14500,
+    "publicCodeGdynia": 4010,
+    "stopIdGdynia": 34010,
+    "stopName": "Sopot Kamienny Potok SKM",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 407,
+    "stopIdGdansk": 14493,
+    "publicCodeGdynia": 4960,
+    "stopIdGdynia": 34960,
+    "stopName": "Sopot Sanatorium \"Leśnik\"",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 196,
+    "stopIdGdansk": 196,
+    "publicCodeGdynia": 1410,
+    "stopIdGdynia": 31410,
+    "stopName": "Żukowo Urząd Gminy",
+    "stopCode": "03"
+  },
+  {
+    "publicCodeGdansk": 320,
+    "stopIdGdansk": 320,
+    "publicCodeGdynia": 1515,
+    "stopIdGdynia": 31515,
+    "stopName": "Oliwa",
+    "stopCode": "09"
+  },
+  {
+    "publicCodeGdansk": 1503,
+    "stopIdGdansk": 1503,
+    "publicCodeGdynia": 1517,
+    "stopIdGdynia": 31517,
+    "stopName": "Stary Rynek Oliwski",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 1504,
+    "stopIdGdansk": 1504,
+    "publicCodeGdynia": 1513,
+    "stopIdGdynia": 31513,
+    "stopName": "Stary Rynek Oliwski",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 1506,
+    "stopIdGdansk": 1506,
+    "publicCodeGdynia": 1543,
+    "stopIdGdynia": 31543,
+    "stopName": "Karwieńska",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 1507,
+    "stopIdGdansk": 1507,
+    "publicCodeGdynia": 1520,
+    "stopIdGdynia": 31520,
+    "stopName": "Rynarzewo",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 1508,
+    "stopIdGdansk": 1508,
+    "publicCodeGdynia": 1511,
+    "stopIdGdynia": 31511,
+    "stopName": "Rynarzewo",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 1509,
+    "stopIdGdansk": 1509,
+    "publicCodeGdynia": 1521,
+    "stopIdGdynia": 31521,
+    "stopName": "Osowa Obwodnica",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 1510,
+    "stopIdGdansk": 1510,
+    "publicCodeGdynia": 1510,
+    "stopIdGdynia": 31510,
+    "stopName": "Osowa Obwodnica",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 1511,
+    "stopIdGdansk": 1511,
+    "publicCodeGdynia": 1522,
+    "stopIdGdynia": 31522,
+    "stopName": "Sopocka",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 1512,
+    "stopIdGdansk": 1512,
+    "publicCodeGdynia": 1507,
+    "stopIdGdynia": 31507,
+    "stopName": "Sopocka",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 1513,
+    "stopIdGdansk": 1513,
+    "publicCodeGdynia": 1523,
+    "stopIdGdynia": 31523,
+    "stopName": "Nowa",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 1514,
+    "stopIdGdansk": 1514,
+    "publicCodeGdynia": 1506,
+    "stopIdGdynia": 31506,
+    "stopName": "Nowa",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 1516,
+    "stopIdGdansk": 1516,
+    "publicCodeGdynia": 1505,
+    "stopIdGdynia": 31505,
+    "stopName": "Barniewicka",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 1534,
+    "stopIdGdansk": 1534,
+    "publicCodeGdynia": 1514,
+    "stopIdGdynia": 31514,
+    "stopName": "Oliwa",
+    "stopCode": "08"
+  },
+  {
+    "publicCodeGdansk": 1536,
+    "stopIdGdansk": 1536,
+    "publicCodeGdynia": 1519,
+    "stopIdGdynia": 31519,
+    "stopName": "Cmentarz Oliwski",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4041,
+    "stopIdGdansk": 14481,
+    "publicCodeGdynia": 4340,
+    "stopIdGdynia": 34340,
+    "stopName": "Sopot Reja",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4042,
+    "stopIdGdansk": 14477,
+    "publicCodeGdynia": 4770,
+    "stopIdGdynia": 34770,
+    "stopName": "Sopot Reja",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4044,
+    "stopIdGdansk": 14476,
+    "publicCodeGdynia": 4320,
+    "stopIdGdynia": 34320,
+    "stopName": "Sopot 3 Maja",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4045,
+    "stopIdGdansk": 14526,
+    "publicCodeGdynia": 4680,
+    "stopIdGdynia": 34680,
+    "stopName": "Sopot PKP - Marynarzy",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4046,
+    "stopIdGdansk": 14527,
+    "publicCodeGdynia": 4370,
+    "stopIdGdynia": 34370,
+    "stopName": "Sopot PKP",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4047,
+    "stopIdGdansk": 14484,
+    "publicCodeGdynia": 4800,
+    "stopIdGdynia": 34800,
+    "stopName": "Sopot Sikorskiego",
+    "stopCode": "04"
+  },
+  {
+    "publicCodeGdansk": 4048,
+    "stopIdGdansk": 14474,
+    "publicCodeGdynia": 4300,
+    "stopIdGdynia": 34300,
+    "stopName": "Sopot Sikorskiego",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4049,
+    "stopIdGdansk": 14485,
+    "publicCodeGdynia": 4220,
+    "stopIdGdynia": 34220,
+    "stopName": "Sopot Uniwersytet Gdański",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4050,
+    "stopIdGdansk": 14473,
+    "publicCodeGdynia": 4260,
+    "stopIdGdynia": 34260,
+    "stopName": "Sopot Uniwersytet Gdański",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4051,
+    "stopIdGdansk": 14486,
+    "publicCodeGdynia": 4230,
+    "stopIdGdynia": 34230,
+    "stopName": "Sopot Okrężna",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4052,
+    "stopIdGdansk": 14472,
+    "publicCodeGdynia": 4250,
+    "stopIdGdynia": 34250,
+    "stopName": "Sopot Okrężna",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4063,
+    "stopIdGdansk": 14490,
+    "publicCodeGdynia": 4630,
+    "stopIdGdynia": 34630,
+    "stopName": "Sopot Bitwy pod Płowcami",
+    "stopCode": "04"
+  },
+  {
+    "publicCodeGdansk": 4064,
+    "stopIdGdansk": 14495,
+    "publicCodeGdynia": 4620,
+    "stopIdGdynia": 34620,
+    "stopName": "Sopot Bitwy pod Płowcami",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4065,
+    "stopIdGdansk": 14491,
+    "publicCodeGdynia": 4440,
+    "stopIdGdynia": 34440,
+    "stopName": "Sopot Władysława IV",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4066,
+    "stopIdGdansk": 14494,
+    "publicCodeGdynia": 4380,
+    "stopIdGdynia": 34380,
+    "stopName": "Sopot Władysława IV",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4055,
+    "stopIdGdansk": 14492,
+    "publicCodeGdynia": 4950,
+    "stopIdGdynia": 34950,
+    "stopName": "Sopot Przylesie",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4056,
+    "stopIdGdansk": 14499,
+    "publicCodeGdynia": 4970,
+    "stopIdGdynia": 34970,
+    "stopName": "Sopot Przylesie",
+    "stopCode": "03"
+  },
+  {
+    "publicCodeGdansk": 1569,
+    "stopIdGdansk": 1569,
+    "publicCodeGdynia": 1524,
+    "stopIdGdynia": 31524,
+    "stopName": "Barniewicka",
+    "stopCode": "03"
+  },
+  {
+    "publicCodeGdansk": 1571,
+    "stopIdGdansk": 1571,
+    "publicCodeGdynia": 1525,
+    "stopIdGdynia": 31525,
+    "stopName": "Iławska",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 1572,
+    "stopIdGdansk": 1572,
+    "publicCodeGdynia": 1504,
+    "stopIdGdynia": 31504,
+    "stopName": "Iławska",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 1573,
+    "stopIdGdansk": 1573,
+    "publicCodeGdynia": 1526,
+    "stopIdGdynia": 31526,
+    "stopName": "Myśliborska",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 1574,
+    "stopIdGdansk": 1574,
+    "publicCodeGdynia": 1503,
+    "stopIdGdynia": 31503,
+    "stopName": "Myśliborska",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4069,
+    "stopIdGdansk": 14511,
+    "publicCodeGdynia": 4460,
+    "stopIdGdynia": 34460,
+    "stopName": "Sopot Grunwaldzka",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4070,
+    "stopIdGdansk": 14510,
+    "publicCodeGdynia": 4470,
+    "stopIdGdynia": 34470,
+    "stopName": "Sopot Chopina",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4071,
+    "stopIdGdansk": 14509,
+    "publicCodeGdynia": 4480,
+    "stopIdGdynia": 34480,
+    "stopName": "Sopot Grand Hotel",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4072,
+    "stopIdGdansk": 14508,
+    "publicCodeGdynia": 4980,
+    "stopIdGdynia": 34980,
+    "stopName": "Sopot Korty Tenisowe",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4075,
+    "stopIdGdansk": 14501,
+    "publicCodeGdynia": 4130,
+    "stopIdGdynia": 34130,
+    "stopName": "Sopot Wejherowska",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4076,
+    "stopIdGdansk": 14502,
+    "publicCodeGdynia": 4190,
+    "stopIdGdynia": 34190,
+    "stopName": "Sopot Malczewskiego",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4077,
+    "stopIdGdansk": 14503,
+    "publicCodeGdynia": 4920,
+    "stopIdGdynia": 34920,
+    "stopName": "Sopot Sikorskiego",
+    "stopCode": "03"
+  },
+  {
+    "publicCodeGdansk": 4078,
+    "stopIdGdansk": 14504,
+    "publicCodeGdynia": 4930,
+    "stopIdGdynia": 34930,
+    "stopName": "Sopot Wybickiego",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4003,
+    "stopIdGdansk": 14483,
+    "publicCodeGdynia": 4360,
+    "stopIdGdynia": 34360,
+    "stopName": "Sopot PKP - Niepodległości",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4002,
+    "stopIdGdansk": 14475,
+    "publicCodeGdynia": 4310,
+    "stopIdGdynia": 34310,
+    "stopName": "Sopot PKP - Niepodległości",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4092,
+    "stopIdGdansk": 14558,
+    "publicCodeGdynia": 4050,
+    "stopIdGdynia": 34050,
+    "stopName": "Sopot Junaków",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4094,
+    "stopIdGdansk": 14559,
+    "publicCodeGdynia": 4060,
+    "stopIdGdynia": 34060,
+    "stopName": "Sopot Małopolska",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4096,
+    "stopIdGdansk": 14560,
+    "publicCodeGdynia": 4070,
+    "stopIdGdynia": 34070,
+    "stopName": "Sopot Kolberga",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4098,
+    "stopIdGdansk": 14561,
+    "publicCodeGdynia": 4080,
+    "stopIdGdynia": 34080,
+    "stopName": "Sopot Brodwino",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 7575,
+    "stopIdGdansk": 7575,
+    "publicCodeGdynia": 1527,
+    "stopIdGdynia": 31527,
+    "stopName": "Chwaszczyno Oliwska",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 7576,
+    "stopIdGdansk": 7576,
+    "publicCodeGdynia": 1502,
+    "stopIdGdynia": 31502,
+    "stopName": "Chwaszczyno Oliwska",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 7577,
+    "stopIdGdansk": 7577,
+    "publicCodeGdynia": 1528,
+    "stopIdGdynia": 31528,
+    "stopName": "Chwaszczyno Kaszubska Droga",
+    "stopCode": "04"
+  },
+  {
+    "publicCodeGdansk": 7578,
+    "stopIdGdansk": 7578,
+    "publicCodeGdynia": 1501,
+    "stopIdGdynia": 31501,
+    "stopName": "Chwaszczyno Kaszubska Droga",
+    "stopCode": "77"
+  },
+  {
+    "publicCodeGdansk": 7987,
+    "stopIdGdansk": 7987,
+    "publicCodeGdynia": 1406,
+    "stopIdGdynia": 31406,
+    "stopName": "Miszewo Rolnicza",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 7988,
+    "stopIdGdansk": 7988,
+    "publicCodeGdynia": 1431,
+    "stopIdGdynia": 31431,
+    "stopName": "Miszewo Przodkowska",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 7989,
+    "stopIdGdansk": 7989,
+    "publicCodeGdynia": 1430,
+    "stopIdGdynia": 31430,
+    "stopName": "Miszewo Przodkowska",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 7990,
+    "stopIdGdansk": 7990,
+    "publicCodeGdynia": 1414,
+    "stopIdGdynia": 31414,
+    "stopName": "Małkowo Gdyńska",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 7991,
+    "stopIdGdansk": 7991,
+    "publicCodeGdynia": 1407,
+    "stopIdGdynia": 31407,
+    "stopName": "Małkowo Gdyńska",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 7992,
+    "stopIdGdansk": 7992,
+    "publicCodeGdynia": 1446,
+    "stopIdGdynia": 31446,
+    "stopName": "Żukowo Słoneczna",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 7993,
+    "stopIdGdansk": 7993,
+    "publicCodeGdynia": 1445,
+    "stopIdGdynia": 31445,
+    "stopName": "Żukowo Słoneczna",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 7994,
+    "stopIdGdansk": 7994,
+    "publicCodeGdynia": 1413,
+    "stopIdGdynia": 31413,
+    "stopName": "Żukowo Dworcowa",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 7995,
+    "stopIdGdansk": 7995,
+    "publicCodeGdynia": 1408,
+    "stopIdGdynia": 31408,
+    "stopName": "Żukowo Derdowskiego",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 7997,
+    "stopIdGdansk": 7997,
+    "publicCodeGdynia": 1409,
+    "stopIdGdynia": 31409,
+    "stopName": "Żukowo Dworcowa",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 7998,
+    "stopIdGdansk": 7998,
+    "publicCodeGdynia": 1411,
+    "stopIdGdynia": 31411,
+    "stopName": "Żukowo Urząd Gminy",
+    "stopCode": "84"
+  },
+  {
+    "publicCodeGdansk": 8101,
+    "stopIdGdansk": 8101,
+    "publicCodeGdynia": 3470,
+    "stopIdGdynia": 33470,
+    "stopName": "Karwiny Nowowiczlińska",
+    "stopCode": "06"
+  },
+  {
+    "publicCodeGdansk": 8100,
+    "stopIdGdansk": 8100,
+    "publicCodeGdynia": 2510,
+    "stopIdGdynia": 32510,
+    "stopName": "Karwiny Nowowiczlińska",
+    "stopCode": "03"
+  },
+  {
+    "publicCodeGdansk": 8102,
+    "stopIdGdansk": 8102,
+    "publicCodeGdynia": 102,
+    "stopIdGdynia": 30102,
+    "stopName": "Anyżowa",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8227,
+    "stopIdGdansk": 8227,
+    "publicCodeGdynia": 2270,
+    "stopIdGdynia": 32270,
+    "stopName": "Dąbrowa Centrum",
+    "stopCode": "04"
+  },
+  {
+    "publicCodeGdansk": 8228,
+    "stopIdGdansk": 8228,
+    "publicCodeGdynia": 2280,
+    "stopIdGdynia": 32280,
+    "stopName": "Kameliowa",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8229,
+    "stopIdGdansk": 8229,
+    "publicCodeGdynia": 2290,
+    "stopIdGdynia": 32290,
+    "stopName": "Paprykowa",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8230,
+    "stopIdGdansk": 8230,
+    "publicCodeGdynia": 2300,
+    "stopIdGdynia": 32300,
+    "stopName": "Szafranowa",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8231,
+    "stopIdGdansk": 8231,
+    "publicCodeGdynia": 2310,
+    "stopIdGdynia": 32310,
+    "stopName": "Leśna Polana",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8232,
+    "stopIdGdansk": 8232,
+    "publicCodeGdynia": 2320,
+    "stopIdGdynia": 32320,
+    "stopName": "Rdestowa - Kolonia",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8234,
+    "stopIdGdansk": 8234,
+    "publicCodeGdynia": 2340,
+    "stopIdGdynia": 32340,
+    "stopName": "Chwaszczyno Rewerenda",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8235,
+    "stopIdGdansk": 8235,
+    "publicCodeGdynia": 2350,
+    "stopIdGdynia": 32350,
+    "stopName": "Chwaszczyno Synaka",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8236,
+    "stopIdGdansk": 8236,
+    "publicCodeGdynia": 2360,
+    "stopIdGdynia": 32360,
+    "stopName": "Chwaszczyno",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8237,
+    "stopIdGdansk": 8237,
+    "publicCodeGdynia": 2370,
+    "stopIdGdynia": 32370,
+    "stopName": "Chwaszczyno Centrum",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8218,
+    "stopIdGdansk": 14944,
+    "publicCodeGdynia": 2380,
+    "stopIdGdynia": 32380,
+    "stopName": "Chwaszczyno Synaka",
+    "stopCode": "04"
+  },
+  {
+    "publicCodeGdansk": 8239,
+    "stopIdGdansk": 8239,
+    "publicCodeGdynia": 2390,
+    "stopIdGdynia": 32390,
+    "stopName": "Rewerenda",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8208,
+    "stopIdGdansk": 14943,
+    "publicCodeGdynia": 2430,
+    "stopIdGdynia": 32430,
+    "stopName": "Rdestowa - Kolonia",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8244,
+    "stopIdGdansk": 8244,
+    "publicCodeGdynia": 2440,
+    "stopIdGdynia": 32440,
+    "stopName": "Leśna Polana",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8245,
+    "stopIdGdansk": 8245,
+    "publicCodeGdynia": 2450,
+    "stopIdGdynia": 32450,
+    "stopName": "Szafranowa",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8246,
+    "stopIdGdansk": 8246,
+    "publicCodeGdynia": 2460,
+    "stopIdGdynia": 32460,
+    "stopName": "Paprykowa",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8247,
+    "stopIdGdansk": 8247,
+    "publicCodeGdynia": 2470,
+    "stopIdGdynia": 32470,
+    "stopName": "Dąbrowa Centrum",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8248,
+    "stopIdGdansk": 8248,
+    "publicCodeGdynia": 2480,
+    "stopIdGdynia": 32480,
+    "stopName": "Anyżowa",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8249,
+    "stopIdGdansk": 8249,
+    "publicCodeGdynia": 2490,
+    "stopIdGdynia": 32490,
+    "stopName": "Kameliowa",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8250,
+    "stopIdGdansk": 8250,
+    "publicCodeGdynia": 2610,
+    "stopIdGdynia": 32610,
+    "stopName": "Chwaszczyno Wiejska",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8265,
+    "stopIdGdansk": 8265,
+    "publicCodeGdynia": 2650,
+    "stopIdGdynia": 32650,
+    "stopName": "Rdestowa - Leśny Zakątek",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8308,
+    "stopIdGdansk": 8308,
+    "publicCodeGdynia": 3080,
+    "stopIdGdynia": 33080,
+    "stopName": "Karwiny PKM",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8309,
+    "stopIdGdansk": 8309,
+    "publicCodeGdynia": 3090,
+    "stopIdGdynia": 33090,
+    "stopName": "Źródło Marii",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8313,
+    "stopIdGdansk": 8313,
+    "publicCodeGdynia": 3130,
+    "stopIdGdynia": 33130,
+    "stopName": "Myśliwska",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8337,
+    "stopIdGdansk": 8337,
+    "publicCodeGdynia": 3370,
+    "stopIdGdynia": 33370,
+    "stopName": "Nałkowskiej",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8339,
+    "stopIdGdansk": 8339,
+    "publicCodeGdynia": 3390,
+    "stopIdGdynia": 33390,
+    "stopName": "Podleśna",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4090,
+    "stopIdGdansk": 14519,
+    "publicCodeGdynia": 4160,
+    "stopIdGdynia": 34160,
+    "stopName": "Sopot Brodwino - Szkoła",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4001,
+    "stopIdGdansk": 14512,
+    "publicCodeGdynia": 4350,
+    "stopIdGdynia": 34350,
+    "stopName": "Sopot 3 Maja",
+    "stopCode": "03"
+  },
+  {
+    "publicCodeGdansk": 4005,
+    "stopIdGdansk": 14513,
+    "publicCodeGdynia": 4530,
+    "stopIdGdynia": 34530,
+    "stopName": "Sopot Bohaterów Monte Cassino",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4007,
+    "stopIdGdansk": 14514,
+    "publicCodeGdynia": 4540,
+    "stopIdGdynia": 34540,
+    "stopName": "Sopot Goyki",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4009,
+    "stopIdGdansk": 14515,
+    "publicCodeGdynia": 4550,
+    "stopIdGdynia": 34550,
+    "stopName": "Sopot Malczewskiego",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4038,
+    "stopIdGdansk": 14567,
+    "publicCodeGdynia": 4105,
+    "stopIdGdynia": 40071,
+    "stopName": "Sopot PKP - Marynarzy",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4053,
+    "stopIdGdansk": 14520,
+    "publicCodeGdynia": 4103,
+    "stopIdGdynia": 40061,
+    "stopName": "Sopot 23 Marca",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4054,
+    "stopIdGdansk": 14521,
+    "publicCodeGdynia": 4104,
+    "stopIdGdynia": 40062,
+    "stopName": "Sopot 23 Marca",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 1730,
+    "stopIdGdansk": 1730,
+    "publicCodeGdynia": 1508,
+    "stopIdGdynia": 40286,
+    "stopName": "Odyseusza",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8241,
+    "stopIdGdansk": 14888,
+    "publicCodeGdynia": 2550,
+    "stopIdGdynia": 32550,
+    "stopName": "Kacze Buki",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8242,
+    "stopIdGdansk": 14889,
+    "publicCodeGdynia": 2790,
+    "stopIdGdynia": 40291,
+    "stopName": "Kacze Buki",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8251,
+    "stopIdGdansk": 14890,
+    "publicCodeGdynia": 2800,
+    "stopIdGdynia": 40292,
+    "stopName": "Krzemowa",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4100,
+    "stopIdGdansk": 14760,
+    "publicCodeGdynia": 4600,
+    "stopIdGdynia": 34600,
+    "stopName": "Sopot Kraszewskiego",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 1545,
+    "stopIdGdansk": 1545,
+    "publicCodeGdynia": 1553,
+    "stopIdGdynia": 40089,
+    "stopName": "Cmentarz Oliwski",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4037,
+    "stopIdGdansk": 14479,
+    "publicCodeGdynia": 1545,
+    "stopIdGdynia": 40137,
+    "stopName": "Sopot Kasztanowa",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 4039,
+    "stopIdGdansk": 14480,
+    "publicCodeGdynia": 4840,
+    "stopIdGdynia": 40135,
+    "stopName": "Sopot Smolna",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 9232,
+    "stopIdGdansk": 14905,
+    "publicCodeGdynia": 2840,
+    "stopIdGdynia": 40301,
+    "stopName": "Rdestowa - Kolonia",
+    "stopCode": "04"
+  },
+  {
+    "publicCodeGdansk": 8217,
+    "stopIdGdansk": 14936,
+    "publicCodeGdynia": 2910,
+    "stopIdGdynia": 40319,
+    "stopName": "Chwaszczyno Nytbusz",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8214,
+    "stopIdGdansk": 14937,
+    "publicCodeGdynia": 2920,
+    "stopIdGdynia": 40320,
+    "stopName": "Chwaszczyno Nytbusz",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8264,
+    "stopIdGdansk": 14924,
+    "publicCodeGdynia": 2860,
+    "stopIdGdynia": 40311,
+    "stopName": "Rdestowa - Leśny Zakątek",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8210,
+    "stopIdGdansk": 14941,
+    "publicCodeGdynia": 2870,
+    "stopIdGdynia": 40315,
+    "stopName": "Bielińskiego",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8213,
+    "stopIdGdansk": 14942,
+    "publicCodeGdynia": 2880,
+    "stopIdGdynia": 40316,
+    "stopName": "Bielińskiego",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 8219,
+    "stopIdGdansk": 14938,
+    "publicCodeGdynia": 2890,
+    "stopIdGdynia": 40317,
+    "stopName": "Chwaszczyno Polna I",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8216,
+    "stopIdGdansk": 14939,
+    "publicCodeGdynia": 2900,
+    "stopIdGdynia": 40318,
+    "stopName": "Chwaszczyno Polna I",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4040,
+    "stopIdGdansk": 14478,
+    "publicCodeGdynia": 4830,
+    "stopIdGdynia": 40134,
+    "stopName": "Sopot Smolna",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4036,
+    "stopIdGdansk": 14665,
+    "publicCodeGdynia": 4850,
+    "stopIdGdynia": 40136,
+    "stopName": "Hospicjum",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 9070,
+    "stopIdGdansk": 9070,
+    "publicCodeGdynia": 4123,
+    "stopIdGdynia": 40299,
+    "stopName": "Sopot Chopina",
+    "stopCode": "90"
+  },
+  {
+    "publicCodeGdansk": 9071,
+    "stopIdGdansk": 14921,
+    "publicCodeGdynia": 4730,
+    "stopIdGdynia": 34730,
+    "stopName": "Sobieskiego - Przychodnia",
+    "stopCode": "02"
+  },
+  {
+    "publicCodeGdansk": 4082,
+    "stopIdGdansk": 14922,
+    "publicCodeGdynia": 4510,
+    "stopIdGdynia": 34510,
+    "stopName": "Sopot Chopina",
+    "stopCode": "03"
+  },
+  {
+    "publicCodeGdansk": 4083,
+    "stopIdGdansk": 14923,
+    "publicCodeGdynia": 4520,
+    "stopIdGdynia": 34520,
+    "stopName": "Sopot PKP",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8104,
+    "stopIdGdansk": 15019,
+    "publicCodeGdynia": 165,
+    "stopIdGdynia": 40369,
+    "stopName": "Karwiny Nowowiczlińska",
+    "stopCode": "04"
+  },
+  {
+    "publicCodeGdansk": 8103,
+    "stopIdGdansk": 15018,
+    "publicCodeGdynia": 2950,
+    "stopIdGdynia": 40370,
+    "stopName": "Karwiny Nowowiczlińska",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8000,
+    "stopIdGdansk": 15017,
+    "publicCodeGdynia": 3150,
+    "stopIdGdynia": 33150,
+    "stopName": "Karwiny Nowowiczlińska",
+    "stopCode": "55"
+  },
+  {
+    "publicCodeGdansk": 1532,
+    "stopIdGdansk": 1532,
+    "publicCodeGdynia": 1589,
+    "stopIdGdynia": 40342,
+    "stopName": "Park Oliwski",
+    "stopCode": "01"
+  },
+  {
+    "publicCodeGdansk": 8079,
+    "stopIdGdansk": 14861,
+    "publicCodeGdynia": 4940,
+    "stopIdGdynia": 34940,
+    "stopName": "Sopot Kochanowskiego",
+    "stopCode": "03"
+  }
+]

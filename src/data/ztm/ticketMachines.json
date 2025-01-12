@@ -1,0 +1,1452 @@
+{
+  "metadata": {
+    "title": "Lokalizacje automatów biletowych",
+    "sourceDate": "2025-01-07T05:20:31Z",
+    "generationDate": "2025-01-07T05:20:31Z",
+    "apiUrlHeader": "https://files.cloudgdansk.pl/d/otwarte-dane/ztm/biletomaty.header.json?v=1"
+  },
+  "count": 85,
+  "results": [
+    {
+      "number": "0103",
+      "address": "al. Grunwaldzka / ul. Opata Rybińskiego",
+      "district": "Oliwa",
+      "description": "przystanek tramwajowy Oliwa pętla tramwajowa, kierunek Zaspa ",
+      "latitude": 54.409971066405,
+      "longitude": 18.567277382628,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0132",
+      "address": "ul. Podwale Grodzkie",
+      "district": "Śródmieście",
+      "description": "przystanek autobusowy Dworzec Główny PKP, kierunek Pruszcz Gd.",
+      "latitude": 54.355397305778,
+      "longitude": 18.645176048167,
+      "damaged": true,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0135",
+      "address": "ul. Podwale Grodzkie",
+      "district": "Śródmieście",
+      "description": "przystanek autobusowy Dworzec Główny PKP, kierunek Wałowa",
+      "latitude": 54.355314040306,
+      "longitude": 18.645944628083,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0136",
+      "address": "ul. Hucisko / ul. Wały Jagiellońskie",
+      "district": "Śródmieście",
+      "description": "przystanek tramwajowy Hucisko - Nowy Ratusz, kierunek Siedlce",
+      "latitude": 54.351968348556,
+      "longitude": 18.645638980694,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0113",
+      "address": "al. Grunwaldzka",
+      "district": "Wrzeszcz Górny",
+      "description": "przystanek tramwajowy Galeria Bałtycka, kierunek Opera",
+      "latitude": 54.382170455806,
+      "longitude": 18.598619865806,
+      "damaged": true,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0176",
+      "address": "ul. Rakoczego / ul. Piekarnicza",
+      "district": "Piecki-Migowo",
+      "description": "przystanek tramwajowy Piekarnicza, kierunek Centrum",
+      "latitude": 54.351576182087,
+      "longitude": 18.592072379929,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0119",
+      "address": "al. Hallera / ul. Wyspiańskiego",
+      "district": "Wrzeszcz Dolny",
+      "description": "przystanek tramwajowy Wyspiańskiego",
+      "latitude": 54.376332126722,
+      "longitude": 18.623673320583,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0120",
+      "address": "al. Zwycięstwa / al. Hallera",
+      "district": "Wrzeszcz Górny",
+      "description": "przystanek tramwajowy Opera Bałtycka",
+      "latitude": 54.372180360944,
+      "longitude": 18.624675752778,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0156",
+      "address": "ul. Kartuska / ul. Jaworowa",
+      "district": "Jasień",
+      "description": "przystanek autobusowy Damroki, kierunek Centrum",
+      "latitude": 54.338669304306,
+      "longitude": 18.564154755056,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0133",
+      "address": "ul. Podwale Grodzkie",
+      "district": "Śródmieście",
+      "description": "przystanek tramwajowy Dworzec Główny PKP, kierunek Stogi",
+      "latitude": 54.355701172167,
+      "longitude": 18.645527990944,
+      "damaged": true,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0134",
+      "address": "ul. Podwale Grodzkie",
+      "district": "Śródmieście",
+      "description": "przystanek tramwajowy Dworzec Główny PKP, kierunek Nowy Port",
+      "latitude": 54.355687165,
+      "longitude": 18.645727896972,
+      "damaged": true,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0141",
+      "address": "ul. Wały Jagiellońskie",
+      "district": "Śródmieście",
+      "description": "przystanek autobusowy Brama Wyżynna, kierunek Orunia",
+      "latitude": 54.350367217306,
+      "longitude": 18.645650794667,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0145",
+      "address": "ul. Wały Jagiellońskie",
+      "district": "Śródmieście",
+      "description": "przystanek tramwajowy Brama Wyżynna, kierunek Stogi",
+      "latitude": 54.350408317694,
+      "longitude": 18.645962278361,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0146",
+      "address": "ul. Wały Jagiellońskie",
+      "district": "Śródmieście",
+      "description": "przystanek tramwajowy Brama Wyżynna, kierunek Zaspa",
+      "latitude": 54.350379986639,
+      "longitude": 18.646152397972,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0112",
+      "address": "ul. Dmowskiego",
+      "district": "Wrzeszcz Górny",
+      "description": "przystanek autobusowy Wrzeszcz Dworzec PKP III, kierunek Orunia + Jasień",
+      "latitude": 54.381309967167,
+      "longitude": 18.604577280139,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0162",
+      "address": "ul. Słowackiego / ul. Złota Karczma",
+      "district": "Matarnia",
+      "description": "przystanek autobusowy Harfowa, kierunek Wrzeszcz",
+      "latitude": 54.376061104111,
+      "longitude": 18.523279956361,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0177",
+      "address": "ul. Stryjewskiego",
+      "district": "Stogi",
+      "description": "przystanek autobusowy Zimna, kierunek Przeróbka",
+      "latitude": 54.360786041639,
+      "longitude": 18.709907822889,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0182",
+      "address": "al. Żołnierzy Wyklętych / ul. Srebrniki",
+      "district": "Wrzeszcz Górny",
+      "description": "przystanek autobusowy Srebrzysko Cm. Srebrzysko, kierunek Wrzeszcz",
+      "latitude": 54.377948689194,
+      "longitude": 18.580812022889,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0098",
+      "address": "ul. Pomorska / ul. Gospody",
+      "district": "Żabianka-Wejhera",
+      "description": "przystanek tramwajowy Osiedle Wejhera, kierunek Zaspa",
+      "latitude": 54.420364853194,
+      "longitude": 18.584027436083,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0111",
+      "address": "ul. Wyspiańskiego / ul. Lelewela",
+      "district": "Wrzeszcz Dolny",
+      "description": "przystanek tramwajowy Plac Komorowskiego, kierunek Wrzeszcz",
+      "latitude": 54.383166632889,
+      "longitude": 18.614491134889,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "karta"
+      ]
+    },
+    {
+      "number": "0159",
+      "address": "ul. Trakt Św. Wojciecha / ul. Gościnna",
+      "district": "Orunia Dolna",
+      "description": "przystanek autobusowy Gościnna, kierunek Centrum",
+      "latitude": 54.323481250472,
+      "longitude": 18.631886922194,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0172",
+      "address": "ul. Jaśkowa Dolina / ul. Wileńska",
+      "district": "Piecki-Migowo",
+      "description": "przystanek autobusowy Dobrowolskiego, kierunek Wrzeszcz/Gd. Gł",
+      "latitude": 54.360344327278,
+      "longitude": 18.589727672028,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0178",
+      "address": "ul. Beethovena / ul. Paganiniego",
+      "district": "Suchanino",
+      "description": "przystanek autobusowy Wagnera, kierunek Hucisko",
+      "latitude": 54.355724509611,
+      "longitude": 18.613630395611,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0150",
+      "address": "ul. Sikorskiego / ul. Chałubińskiego",
+      "district": "Chełm",
+      "description": "przystanek tramwajowy Chałubińskiego, kierunek Centrum",
+      "latitude": 54.341604861444,
+      "longitude": 18.617837787417,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0157",
+      "address": "ul. Platynowa",
+      "district": "Orunia Górna",
+      "description": "przystanek autobusowy Platynowa, kierunek Orunia Górna",
+      "latitude": 54.326317735944,
+      "longitude": 18.611197217722,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0179",
+      "address": "al. Zwycięstwa / ul. Curie Skłodowskiej",
+      "district": "Aniołki",
+      "description": "przystanek tramwajowy Uniwersytet Medyczny przy wejściu od strony Uniwersytetu Medycznego",
+      "latitude": 54.366890151917,
+      "longitude": 18.632469259333,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0107",
+      "address": "al. Rzeczypospolitej",
+      "district": "Zaspa",
+      "description": "przystanek tramwajowy Bajana, przy wejściu do tunelu dla pieszych od strony Galerii Handlowej Zaspa",
+      "latitude": 54.389694610334,
+      "longitude": 18.609024977711,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0175",
+      "address": "ul. Słowackiego",
+      "district": "Matarnia",
+      "description": "przystanek autobusowy Port Lotniczy, kierunek Gdańsk Gł",
+      "latitude": 54.3827,
+      "longitude": 18.46708,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0148",
+      "address": "ul. Ułańska / ul. Elbląska",
+      "district": "Śródmieście",
+      "description": "przystanek tramwajowy Brama Żuławska tunel dla pieszych",
+      "latitude": 54.348053067417,
+      "longitude": 18.669604093028,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0169",
+      "address": "ul. Świętokrzyska / ul. Guderskiego",
+      "district": "Ujeścisko-Łostowice",
+      "description": "przystanek autobusowy Osiedle Świętokrzyskie, kierunek Kowale",
+      "latitude": 54.313737801361,
+      "longitude": 18.571040642111,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0116",
+      "address": "ul. Słowackiego / ul. Potokowa",
+      "district": "Brętowo",
+      "description": "przystanek autobusowy Potokowa, kierunek Wrzeszcz",
+      "latitude": 54.374613437111,
+      "longitude": 18.568788718778,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0101",
+      "address": "ul. Droszyńskiego",
+      "district": "Przymorze Małe",
+      "description": "przystanek autobusowy Oliwa PKP pętla autobusowa",
+      "latitude": 54.411024781861,
+      "longitude": 18.572640114361,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0099",
+      "address": "ul. Chłopska / ul. Czerwony Dwór",
+      "district": "Przymorze",
+      "description": "przystanek tramwajowy Czerwony Dwór (przy rynku), kierunek Zaspa",
+      "latitude": 54.412601349889,
+      "longitude": 18.587705938167,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0110",
+      "address": "al. Hallera / ul. Kościuszki",
+      "district": "Wrzeszcz Dolny",
+      "description": "okolice przystanku Kościuszki",
+      "latitude": 54.387986386021,
+      "longitude": 18.622015606932,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0121",
+      "address": "ul. Marynarki Polskiej / ul. Wolności",
+      "district": "Nowy Port",
+      "description": "przystanek autobusowy Pl. Wolności, kierunek Żabianka",
+      "latitude": 54.399172002028,
+      "longitude": 18.668508475472,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0129",
+      "address": "ul. Rakoczego / ul. Warneńska",
+      "district": "Piecki-Migowo",
+      "description": "przystanek autobusowy Warneńska, kierunek Wrzeszcz",
+      "latitude": 54.35761,
+      "longitude": 18.58302,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0164",
+      "address": "ul. Świętokrzyska",
+      "district": "Ujeścisko-Łostowice",
+      "description": "przystanek autobusowy Niepołomicka, kierunek Gdańsk Gł",
+      "latitude": 54.32021245225,
+      "longitude": 18.595167350944,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0152",
+      "address": "al. Havla",
+      "district": "Ujeścisko-Łostowice",
+      "description": "przystanek tramwajowy Płocka, kierunek Centrum",
+      "latitude": 54.328883187222,
+      "longitude": 18.598984834444,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0173",
+      "address": "ul. Spacerowa / ul. Kielneńska",
+      "district": "Osowa",
+      "description": "przystanek autobusowy Sopocka, kierunek Oliwa Pętla Tramwajowa",
+      "latitude": 54.430003821934,
+      "longitude": 18.478719115152,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0117",
+      "address": "al. Grunwaldzka / ul. Dmowskiego",
+      "district": "Wrzeszcz Górny",
+      "description": "przystanek tramwajowy Jaśkowa Dolina (CH Manhattan), kierunek Opera",
+      "latitude": 54.378132653353,
+      "longitude": 18.606952058475,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0104",
+      "address": "ul. Jana Bażyńskiego / ul. Wita Stwosza",
+      "district": "Oliwa",
+      "description": "okolice przystanku tramwajowego Bażyńskiego",
+      "latitude": 54.399045405611,
+      "longitude": 18.568667332639,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0105",
+      "address": "ul. Kołobrzeska",
+      "district": "Przymorze Małe",
+      "description": "przystanek autobusowy Krynicka (Koło CH ALFA), kierunek Wrzeszcz",
+      "latitude": 54.403642397389,
+      "longitude": 18.587891548,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0106",
+      "address": "al. Jana Pawła II",
+      "district": "Zaspa Rozstaje",
+      "description": "okolice przystanku autobusowego Zaspa - Szpital, kierunek Wrzeszcz",
+      "latitude": 54.402457984694,
+      "longitude": 18.610647519639,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0183",
+      "address": "ul. Sikorskiego / ul. Witosa",
+      "district": "Chełm",
+      "description": "przystanek tramwajowy Sikorskiego, kierunek Centrum",
+      "latitude": 54.338479,
+      "longitude": 18.618647,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0122",
+      "address": "ul. Krasickiego / ul. Zdrojowa",
+      "district": "Brzeźno",
+      "description": "przystanek tramwajowy Brzeźno",
+      "latitude": 54.407230935083,
+      "longitude": 18.63844998275,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0153",
+      "address": "ul. Witosa / ul. Cieszyńskiego",
+      "district": "Chełm",
+      "description": "przystanek tramwajowy Cieszyńskiego, kierunek Łostowice Świętokrzyska",
+      "latitude": 54.338245265578,
+      "longitude": 18.610488474369,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0170",
+      "address": "ul. Grunwaldzka / ul. Krótka",
+      "district": "Pruszcz Gdański",
+      "description": "przystanek autobusowy Chopina, kierunek Gdańsk, Dw. Gł.",
+      "latitude": 54.2625774,
+      "longitude": 18.6363932,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0137",
+      "address": "ul. Świętokrzyska",
+      "district": "Chełm",
+      "description": "pętla tramwajowa Łostowice Świętokrzyska",
+      "latitude": 54.323413,
+      "longitude": 18.606151,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0149",
+      "address": "ul. Kartuska",
+      "district": "Siedlce",
+      "description": "pętla tramwajowa Siedlce",
+      "latitude": 54.34843,
+      "longitude": 18.60701,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0174",
+      "address": "ul. Lenartowicza / ul. Siennicka",
+      "district": "Przeróbka",
+      "description": "przystanek Przeróbka kierunek Centrum",
+      "latitude": 54.357495022597,
+      "longitude": 18.683686072883,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0187",
+      "address": "ul. Jagiellońska",
+      "district": "Przymorze Wielkie",
+      "description": "przystanek autobusowy Jagiellońska",
+      "latitude": 54.4129446,
+      "longitude": 18.5924074,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0194",
+      "address": "ul. Chłopska / ul. Obrońców Wybrzeża",
+      "district": "Przymorze Wielkie",
+      "description": "przystanek tramwajowy Bora Komorowskiego",
+      "latitude": 54.4089133,
+      "longitude": 18.5887532,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0208",
+      "address": "ul. Pomorska / ul. Subisława",
+      "district": "Żabianka",
+      "description": "przystanek tramwajowy Subisława",
+      "latitude": 54.4167488,
+      "longitude": 18.5730879,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0185",
+      "address": "ul. Rzeczypospolitej",
+      "district": "Zaspa-Młyniec",
+      "description": "przystanek tramwajowy Startowa (przejście podziemne)",
+      "latitude": 54.397064,
+      "longitude": 18.597514,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "karta"
+      ]
+    },
+    {
+      "number": "0210",
+      "address": "ul. Hynka",
+      "district": "Zaspa",
+      "description": "przy zejściu z peronu, w pobliżu przystanku autobusowego Zaspa SKM",
+      "latitude": 54.3894121,
+      "longitude": 18.5929448,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0186",
+      "address": "al. Wojska Polskiego",
+      "district": "Strzyża",
+      "description": "w pobliżu przystanku tramwajowego Zamenhofa",
+      "latitude": 54.3867926,
+      "longitude": 18.5846005,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0188",
+      "address": "ul. Wita Stwosza",
+      "district": "Strzyża",
+      "description": "przystanek tramwajowy Strzyża PKM",
+      "latitude": 54.3911969,
+      "longitude": 18.5776455,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0204",
+      "address": "al. Hallera",
+      "district": "Wrzeszcz Dolny",
+      "description": "przystanek tramwajowy Mickiewicza",
+      "latitude": 54.3828844,
+      "longitude": 18.6217986,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0209",
+      "address": "ul. Dworska/al. Hallera",
+      "district": "Brzeźno",
+      "description": "przystanek autobusowy Dworska",
+      "latitude": 54.4044121,
+      "longitude": 18.6254881,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0102",
+      "address": "al. Hallera",
+      "district": "Brzeźno",
+      "description": "przystanek tramwajowy Wczasy",
+      "latitude": 54.409153,
+      "longitude": 18.628132,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0184",
+      "address": "ul. 3 Maja (przejście podziemne)",
+      "district": "Grodzisko",
+      "description": "tunel dla pieszych przy Dworcu PKS",
+      "latitude": 54.3562048,
+      "longitude": 18.6430282,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0190",
+      "address": "ul. Przywidzka",
+      "district": "Jasień",
+      "description": "w pobliżu przystanku autobusowego Czermińskiego",
+      "latitude": 54.3220662,
+      "longitude": 18.5527938,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0196",
+      "address": "ul. Kampinoska",
+      "district": "Chełm",
+      "description": "przystanek autobusowy Kampinoska",
+      "latitude": 54.3161727,
+      "longitude": 18.6024179,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0197",
+      "address": "ul. Kartuska",
+      "district": "Siedlce",
+      "description": "przystanek tramwajowy Skrajna",
+      "latitude": 54.3490959,
+      "longitude": 18.6127077,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0198",
+      "address": "ul. Beethovena",
+      "district": "Suchanino",
+      "description": "przystanek autobusowy Kurpińskiego kierunek Piecki-Migowo",
+      "latitude": 54.3553073,
+      "longitude": 18.5964764,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0200",
+      "address": "ul. Podwale Przedmiejskie",
+      "district": "Śródmieście",
+      "description": "przystanek tramwajowy Akademia Muzyczna kierunek Gdańsk Gł.",
+      "latitude": 54.3445329,
+      "longitude": 18.66378,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0201",
+      "address": "al. Havla",
+      "district": "Ujeścisko Łostowice",
+      "description": "przystanek tramwajowy Wilanowska kierunek Gdańsk Gł.",
+      "latitude": 54.3368822,
+      "longitude": 18.5994237,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0206",
+      "address": "al. Zwycięstwa",
+      "district": "Wrzeszcz Górny",
+      "description": "przystanek tramwajowy Traugutta kierunek Wrzeszcz",
+      "latitude": 54.3689451,
+      "longitude": 18.6302012,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0207",
+      "address": "al. Zwycięstwa",
+      "district": "Wrzeszcz Górny",
+      "description": "przystanek tramwajowy Politechnika",
+      "latitude": 54.3739407,
+      "longitude": 18.6218035,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0211",
+      "address": "ul. Ofiar Grudnia 70",
+      "district": "Chełm",
+      "description": "przystanek autobusowy Olimpijska",
+      "latitude": 54.3054493,
+      "longitude": 18.5809844,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0202",
+      "address": "al. Havla",
+      "district": "Ujeścisko Łostowice",
+      "description": "przystanek tramwajowy Przemyska",
+      "latitude": 54.333123248294,
+      "longitude": 18.596503436565,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0180",
+      "address": "ul. Łostowicka",
+      "district": "Ujeścisko",
+      "description": "przystanek autobusowy: Cmentarz Łostowicki, kierunek Orunia Górna",
+      "latitude": 54.340229,
+      "longitude": 18.601072,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0212",
+      "address": "ul. Turystyczna / ul. Nadwiślańska",
+      "district": "Sobieszewo",
+      "description": "przystanek autobusowy Sobieszewo-Wyspa",
+      "latitude": 54.3435864,
+      "longitude": 18.8261047,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0192",
+      "address": "ul. Małomiejska",
+      "district": "Orunia Dolna",
+      "description": "w pobliżu przystanku Ptasia kierunek Gdańsk Gł.",
+      "latitude": 54.3301931,
+      "longitude": 18.626582,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0195",
+      "address": "ul. Kartuska",
+      "district": "Siedlce",
+      "description": "przystanek tramwajowy Powstańców Warszawskich kierunek Gdańsk Gł.",
+      "latitude": 54.3511684,
+      "longitude": 18.6368153,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0203",
+      "address": "ul. Piotrkowska",
+      "district": "Ujeścisko-Łostowice",
+      "description": "przystanek tramwajowy Piotrkowska",
+      "latitude": 54.331301942053,
+      "longitude": 18.585448194103,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0205",
+      "address": "ul. Marynarki Polskiej",
+      "district": "Wrzeszcz Dolny",
+      "description": "w pobliżu przystanku tramwajowego Swojska",
+      "latitude": 54.3791979,
+      "longitude": 18.6334981,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0191",
+      "address": "ul. Armii Krajowej",
+      "district": "Jasień",
+      "description": "przystanek autobusowy Szczęśliwa",
+      "latitude": 54.3490133,
+      "longitude": 18.5279797,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0189",
+      "address": "al. Zwycięstwa",
+      "district": "Aniołki",
+      "description": "przystanek tramwajowy Brama Oliwska",
+      "latitude": 54.3619244,
+      "longitude": 18.641507,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0193",
+      "address": "ul. Rakoczego",
+      "district": "Piecki Migowo",
+      "description": "w pobliżu przystanku Kolumba kierunek Gdańsk Gł.",
+      "latitude": 54.3603546,
+      "longitude": 18.5770554,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0125",
+      "address": "Armii Krajowej / ul. Okopowa",
+      "district": "Śródmieście",
+      "description": "przystanek tramwajowy Śródmieście SKM, kierunek Chełm",
+      "latitude": 54.347766,
+      "longitude": 18.64432,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0154",
+      "address": "ul. Pomorska/pętla tramwajowa Jelitkowo",
+      "district": "Żabianka-Wejhera-Jelitkowo-Tysiąclecia",
+      "description": "przystanek Jelitkowo końcowy",
+      "latitude": 54.42322,
+      "longitude": 18.59272,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0123",
+      "address": "ul. Bulońska/ul. Myśliwska",
+      "district": "Piecki-Migowo",
+      "description": "przystanek Migowo kierunek Centrum",
+      "latitude": 54.352361,
+      "longitude": 18.575833,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0199",
+      "address": "ul. Bulońska",
+      "district": "Piecki-Migowo",
+      "description": "przystanek Budapesztańska kierunek Centrum",
+      "latitude": 54.355995,
+      "longitude": 18.578776,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "gotówka",
+        "karta"
+      ]
+    },
+    {
+      "number": "0138",
+      "address": "ul. Karwieńska",
+      "district": "Oliwa",
+      "description": "przystanek autobusowy Oliwa Zoo",
+      "latitude": 54.413524580525,
+      "longitude": 18.535280232727,
+      "damaged": false,
+      "availableTickets": [
+        "jednorazowe",
+        "okresowe"
+      ],
+      "paymentMethods": [
+        "karta"
+      ]
+    }
+  ]
+}

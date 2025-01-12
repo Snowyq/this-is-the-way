@@ -1,0 +1,381 @@
+{
+  "lastUpdate": "2023-06-21 13:21:24",
+  "bilety": [
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "117.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gdańska",
+      "Taryfa": "Miesięczny, normalny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "81.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Kolbudy",
+      "Taryfa": "Miesięczny, normalny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "81.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Pruszcza Gdańskiego",
+      "Taryfa": "Miesięczny, normalny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "81.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Pruszcz Gdański",
+      "Taryfa": "Miesięczny, normalny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "81.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Żukowo",
+      "Taryfa": "Miesięczny, normalny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "81.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Sopotu",
+      "Taryfa": "Miesięczny, normalny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "140.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gdańska, Gminy Kolbudy, Pruszcza Gd., Gminy Pruszcz Gd., Gminy Żukowo i Sopotu",
+      "Taryfa": "Miesięczny, normalny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "58.50",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gdańska",
+      "Taryfa": "Miesięczny, ulgowy, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "40.50",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Kolbudy",
+      "Taryfa": "Miesięczny, ulgowy, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "40.50",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Pruszcza Gdańskiego",
+      "Taryfa": "Miesięczny, ulgowy, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "40.50",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Pruszcz Gdański",
+      "Taryfa": "Miesięczny, ulgowy, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "40.50",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Żukowo",
+      "Taryfa": "Miesięczny, ulgowy, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "40.50",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Sopotu",
+      "Taryfa": "Miesięczny, ulgowy, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "70.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gdańska, Gminy Kolbudy, Pruszcza Gd., Gminy Pruszcz Gd., Gminy Żukowo i Sopotu",
+      "Taryfa": "Miesięczny, ulgowy, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "180.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gdańska",
+      "Taryfa": "Miesięczny, ważny we wszystkie dni tygodnia, na okaziciela"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "96.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Kolbudy",
+      "Taryfa": "Miesięczny, ważny we wszystkie dni tygodnia, na okaziciela"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "96.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Pruszcza Gdańskiego",
+      "Taryfa": "Miesięczny, ważny we wszystkie dni tygodnia, na okaziciela"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "96.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Pruszcz Gdański",
+      "Taryfa": "Miesięczny, ważny we wszystkie dni tygodnia, na okaziciela"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "96.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Żukowo",
+      "Taryfa": "Miesięczny, ważny we wszystkie dni tygodnia, na okaziciela"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "96.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Sopotu",
+      "Taryfa": "Miesięczny, ważny we wszystkie dni tygodnia, na okaziciela"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "200.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gdańska, Gminy Kolbudy, Pruszcza Gd., Gminy Pruszcz Gd., Gminy Żukowo i Sopotu",
+      "Taryfa": "Miesięczny, ważny we wszystkie dni tygodnia, na okaziciela"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "222.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gdańska",
+      "Taryfa": "4-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "154.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Kolbudy",
+      "Taryfa": "4-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "154.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Pruszcza Gdańskiego",
+      "Taryfa": "4-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "154.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Pruszcz Gdański",
+      "Taryfa": "4-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "154.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Żukowo",
+      "Taryfa": "4-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "152.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Sopotu",
+      "Taryfa": "4-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "266.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gdańska, Gminy Kolbudy, Pruszcza Gd., Gminy Pruszcz Gd., Gminy Żukowo i Sopotu",
+      "Taryfa": "4-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "278.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gdańska",
+      "Taryfa": "5-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "192.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Kolbudy",
+      "Taryfa": "5-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "192.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Pruszcza Gdańskiego",
+      "Taryfa": "5-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "192.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Pruszcz Gdański",
+      "Taryfa": "5-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "192.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gminy Żukowo",
+      "Taryfa": "5-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "190.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Sopotu",
+      "Taryfa": "5-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "333.00",
+      "Typ": "okresowy",
+      "Strefa": "na wszystkie linie w granicach Gdańska, Gminy Kolbudy, Pruszcza Gd., Gminy Pruszcz Gd., Gminy Żukowo i Sopotu",
+      "Taryfa": "5-miesięczny, ważny we wszystkie dni tygodnia, imienny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "4.80",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Na jeden przejazd na wszystkie linie NOR"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "2.40",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Na jeden przejazd na wszystkie linie ULG"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "6.00",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "75-minutowy na wszystkie linie NOR"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "3.00",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "75-minutowy na wszystkie linie ULG"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "22.00",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "24-godzinny, na wszystkie linie, normalny"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "11.00",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "24-godzinny, na wszystkie linie, ulgowy"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "1.20",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Bilet uzupełniający służący wyłącznie jako dopłata do biletów jednorazowych"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "0.20",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Bilet uzupełniający służący wyłącznie jako dopłata do biletów jednorazowych"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "0.60",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Bilet uzupełniający służący wyłącznie jako dopłata do biletów jednorazowych"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "1.00",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Bilet uzupełniający służący wyłącznie jako dopłata do biletów jednorazowych"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "2.00",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Bilet uzupełniający służący wyłącznie jako dopłata do biletów jednorazowych"
+    },
+    {
+      "DataWaznosciOd": "2023-04-03",
+      "DataWaznosciDo": "2999-12-31",
+      "Cena": "4.00",
+      "Typ": "jednorazowy",
+      "Strefa": "",
+      "Taryfa": "Bilet uzupełniający służący wyłącznie jako dopłata do biletów jednorazowych"
+    }
+  ]
+}
